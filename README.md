@@ -1,2 +1,4 @@
 # GBF-Ping
-Ping thing for grindy game
+Granblue Fantasy result notifier.
+
+Chrome only, use Load Unpacked in the extensions.
